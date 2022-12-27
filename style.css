@@ -297,12 +297,13 @@ p
 
 .peg    
 {
-    height: 40vh;
+    display: flex;
+    height: 50vh;
 }
 
 .peg-left
 {
-    /* padding: 50px; */
+    padding: 50px;
     /* margin: 10px; */
     float: left;
     width: 50%;
